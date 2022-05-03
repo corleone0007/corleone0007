@@ -26,11 +26,11 @@
 ---
 
 ### 👨‍💻 About Me :
-### Hi There 👋  I'm Full Stack / Solidity Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+### Hi There 👋  I'm a Full Stack / Solidity Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications and also Smart contracts.
 
-- 🌱I’m currently looking to collaborate on open source
+- 🌱I’m currently looking to collaborate on open source.
 
 - 💬 Ask me about programming with HTML, CSS, JavaScript, React, Smart Contract and Solidity.
 
